@@ -1,6 +1,3 @@
-Aqui está um modelo de README para o seu projeto, organizado e claro:
-
----
 
 # **Video Data Extract API**
 
@@ -31,9 +28,6 @@ Este projeto é ideal para soluções que requerem extração e análise de cont
 - **yt-dlp**: Ferramenta para download de vídeos.
 - **FFmpeg**: Processamento de áudio e vídeo.
 - **Python 3.12**: Linguagem de programação principal.
-
----
-Aqui está a seção adicionada sobre como executar o projeto usando **Docker**:
 
 ---
 
